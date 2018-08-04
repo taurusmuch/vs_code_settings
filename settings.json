@@ -1,0 +1,29 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "explorer.openEditors.visible": 0,
+    "editor.lineHeight": 0,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#ffffff"
+    },
+    "workbench.iconTheme": "ayu",
+    "terminal.integrated.fontSize": 16,
+    "workbench.activityBar.visible": true,
+    "files.autoSave": "off",
+    "gitlens.historyExplorer.enabled": true,
+    "editor.minimap.enabled": false,
+    // "editor.multiCursorModifier": "ctrlCmd",
+    "editor.minimap.renderCharacters": false,
+    "[html]": { "editor.autoIndent": false },
+    "auto-rename-tag.activationOnLanguage": [ "html", "xml", "php" ]
+}

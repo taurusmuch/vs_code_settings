@@ -25,5 +25,10 @@
     // "editor.multiCursorModifier": "ctrlCmd",
     "editor.minimap.renderCharacters": false,
     "[html]": { "editor.autoIndent": false },
-    "auto-rename-tag.activationOnLanguage": [ "html", "xml", "php" ]
+    "auto-rename-tag.activationOnLanguage": [ "html", "xml", "php" ],
+    "editor.fontLigatures": true,
+    "breadcrumbs.enabled": true,
+    "editor.snippetSuggestions": "top",
+    "files.autoGuessEncoding": true,
+    "editor.renderWhitespace": "all"
 }

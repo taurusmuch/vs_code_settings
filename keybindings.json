@@ -1,0 +1,22 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "cmd+r",
+        "command": "workbench.action.gotoSymbol"
+    },
+    {
+        "key": "shift+cmd+o",
+        "command": "-workbench.action.gotoSymbol"
+    },
+    {
+        "key": "cmd+q",
+        "command": "workbench.action.toggleMaximizedPanel"
+    },
+    {
+        "key": "cmd+w",
+        "command": "workbench.action.toggleSidebarVisibility"
+    },
+    { "key": "cmd+y",
+        "command": "redo"},
+
+]
